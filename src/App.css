@@ -1,0 +1,29 @@
+
+.big-content{
+  margin: auto;
+  height: 500px;
+  width:600px;
+  background-color: #7c9ea9a6;
+  border-radius: 15px;
+  margin-top: 50px;
+  padding-top: 15px;
+}
+
+.tilteofdiv{
+  text-align: center;
+  color: #ffff;
+}
+
+.big-content input{
+  height:25px;
+  width:50%;
+  margin-right: 10px;
+}
+.form-control{
+  padding-top: 20px;
+  text-align: center;
+}
+.qrdisplay{
+  text-align: center;
+  padding-top: 25px;
+}
